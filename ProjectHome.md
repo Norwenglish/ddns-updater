@@ -1,0 +1,1 @@
+Script to get ip from whatismyip.com and update ddns
